@@ -15,3 +15,4 @@ and each subject.
 
 The output is a text file called tidy_data.txt.
 
+Running run_analysis.R from the working directory will result in the original data file being downloaded, the compressed file extracted, and the above steps performed.  The output is included in this repository.
