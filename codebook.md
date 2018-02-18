@@ -1,4 +1,4 @@
-Variables in the tidy data set are:
+Variables in the tidy data set are (the convention X/Y/X indicate three variables, each with a respective X, Y, or Z value):
 
   tBodyAcc-mean-X/Y/Z
 
