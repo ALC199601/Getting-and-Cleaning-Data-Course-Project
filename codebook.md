@@ -1,7 +1,9 @@
 Variables in the tidy data set are:
 
   tBodyAcc-mean-X
+  
   tBodyAcc-mean-Y
+  
   tBodyAcc-mean-Z
   tBodyAcc-std-X
   tBodyAcc-std-Y
